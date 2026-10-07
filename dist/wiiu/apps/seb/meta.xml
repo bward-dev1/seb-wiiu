@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<app version="1">
+  <name>Seb's Book Catch</name>
+  <coder>KiddReads</coder>
+  <version>1.0</version>
+  <short_description>Catch the falling books with Seb the owl</short_description>
+  <long_description>A small KiddReads game. Move Seb with the left stick or D-pad and catch the falling books.</long_description>
+</app>
